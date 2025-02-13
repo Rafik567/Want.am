@@ -1,0 +1,17 @@
+.custom-select__option--select {
+    width: 400px;
+    font-weight: 600;
+    color: var(--mountain-mist-950);
+    padding: 17px 45px 17px 20px;
+    font-size: 16px;
+    color: var(--mountain-mist-700);
+    border-radius: 12px;
+    border: 1px solid var(--moody-blue-200) !important;
+    background-color: #fff;
+    transition: .3s ease-in-out;
+    margin-top: 20px;
+
+}
+.but{
+    margin-top: 40px;
+}
